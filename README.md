@@ -2,6 +2,13 @@
 pytorch and bert
 
 
+
+
+
+
+
+
+
 基于bert的gpu环境搭建
 摘要：本文件记录搭建docker容器使用gpu进行基于bert的模型训练过程
 步骤：
